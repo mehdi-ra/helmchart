@@ -1,3 +1,1 @@
-# Helm chart
-
-asdfsdf
+# Helm chart github pages
